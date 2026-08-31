@@ -9,11 +9,11 @@
 
 :root {
     /* Brand Theme Colors */
-    --color-primary: #a855f7;
+    --color-primary: #076a81;
     --color-primary-glow: rgba(168, 85, 247, 0.25);
-    --color-secondary: #ec4899;
+    --color-secondary: #d83653;
     --color-secondary-glow: rgba(236, 72, 153, 0.25);
-    --color-accent: #06b6d4;
+    --color-accent: #17fbe0;
 
 
     /* Base & Layout Backgrounds */
