@@ -1054,7 +1054,7 @@ nav[aria-label="breadcrumb"] a:hover {
 
 }
 .product-detail-left option{
-     color: rgb(18, 17, 17);
+     background-color: rgb(15, 14, 14);
 }
 
 .product-detail-left input[type="number"]:focus,
