@@ -1053,6 +1053,9 @@ nav[aria-label="breadcrumb"] a:hover {
     border-radius: var(--radius-sm);
 
 }
+.product-detail-left option{
+     color: rgb(18, 17, 17);
+}
 
 .product-detail-left input[type="number"]:focus,
 .product-detail-left select:focus {
